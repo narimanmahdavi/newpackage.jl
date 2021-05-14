@@ -1,0 +1,4 @@
+name = "newpackage"
+uuid = "c790ecef-a306-44d7-acdf-a32b72674a2d"
+authors = ["Nariman <nariman.mahdavimazdeh@csiro.au>"]
+version = "0.1.0"
